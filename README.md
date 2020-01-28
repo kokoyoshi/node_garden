@@ -1,4 +1,4 @@
 # node_garden
 何のへんてつもないnode garden
 
-http://kokoyoshi.github.io/node_garden/
+http://yoshi3.github.io/node_garden/
